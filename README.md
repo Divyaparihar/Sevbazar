@@ -1,11 +1,8 @@
 # Project-Documentation
-![](https://github.com/Divyaparihar/Sevbazar/blob/main/HDlogo.png)
 
 # Sevbazar
 
 [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](link_to_your_project_repository)
-[![GitHub Issues](https://img.shields.io/github/issues/username/repo)](link_to_your_project_issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/username/repo)](link_to_your_project_pull_requests)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](link_to_your_project_license)
 
 ## 📝 Table of Contents
